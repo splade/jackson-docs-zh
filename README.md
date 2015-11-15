@@ -3,7 +3,7 @@ Jackson JSON Processor. 这个项目汇集了有关Jackson JSON处理器的所�
 
 # Tutorials 教程
 
-For your first steps in understanding how to use Jackson, following tutorials are good places to start:
+For your first steps in understanding how to use Jackson, following tutorials are good places to start: 对于刚开始理解如何是使用Jackson，下面的教程是一个好的起点：
 
 * [Jackson Tutorial by StudyTrails](http://www.studytrails.com/java/json/java-jackson-introduction.jsp)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)

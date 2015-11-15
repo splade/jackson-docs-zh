@@ -1,7 +1,7 @@
 This project is the main hub to all kinds of documentation related to
-Jackson JSON Processor.
+Jackson JSON Processor. 这个项目汇集了有关Jackson JSON处理器的所有文档。
 
-# Tutorials
+# Tutorials 教程
 
 For your first steps in understanding how to use Jackson, following tutorials are good places to start:
 
@@ -9,13 +9,13 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
 * Older [Jackson in 5 minutes](http://wiki.fasterxml.com/JacksonInFiveMinutes) version (useful for 1.x)
 
-# General
+# General 一般
 
 * [Jackson Annotations](../../wiki/JacksonAnnotations)
 * [Where are the Javadocs?](../../wiki/Finding-Javadoc)
 * [Presentations by Jackson Team, friends](../../wiki/Presentations)
 
-# Documentation under Jackson GH projects
+# Documentation under Jackson GH projects Jackson GH项目下面的文档
 
 [Jackson project hub](../../../jackson) has links to all active Jackson projects.
 These projects contain plenty of project-specific documentation, such as:
@@ -28,15 +28,15 @@ These projects contain plenty of project-specific documentation, such as:
     * [Databind Annotations](../../../jackson-databind/wiki/Databind-Annotations)
     * On/off features: [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s, [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s., [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
 
-# External (off-GitHub) documentation
+# External (off-GitHub) documentation 外部文档（不在GitHub上）
 
-Following sites are good sources for documentation:
+Following sites are good sources for documentation: 下面站点是文档的好来源：
 
 * [CowTalk Blog](http://cowtowncoder.com/blog/blog.html)
 
-And here are good articles around the web:
+And here are good articles around the web: 在网络上有很好的文章：
 
-* General usage
+* General usage 普通用法
     * [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
     * [Jackson - Installation](http://tutorials.jenkov.com/java-json/jackson-installation.html) at Jenkov.com
 * Jackson annotations:
@@ -67,7 +67,7 @@ There are other related lists and forums as well:
 ion](http://wiki.fasterxml.com/SmileFormat))
 * [Jackson Users](http://jackson-users.ning.com) is a Jackson-specific discussion forum for usage questions.
 
-# Sample code
+# Sample code 样例代码
 
 See [(External) Jackson Sample Code](../../wiki/ExternalJacksonSampleCode).
 
